@@ -1,3 +1,3 @@
 # Cata's drawing practice
 
-See [practices](./practices)
+See [practice](./practice)
