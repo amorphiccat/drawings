@@ -1,3 +1,3 @@
 # Cata's drawing practice
 
-recording purpose
+See [practices](./practices)
